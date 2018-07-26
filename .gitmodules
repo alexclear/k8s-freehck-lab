@@ -1,0 +1,9 @@
+[submodule "ansible/roles/docker"]
+	path = ansible/roles/docker
+	url = https://github.com/freehck/ansible-role-docker.git
+[submodule "ansible/roles/group-hosts-to-hosts"]
+	path = ansible/roles/group-hosts-to-hosts
+	url = https://github.com/freehck/ansible-role-group-hosts-to-hosts.git
+[submodule "ansible/roles/k8s"]
+	path = ansible/roles/k8s
+	url = https://github.com/freehck/ansible-role-k8s.git
