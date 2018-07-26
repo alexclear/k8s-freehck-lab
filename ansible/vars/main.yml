@@ -1,3 +1,4 @@
+k8s_ip_autodetection_method: "can-reach=172.16.137.1"
 kubernetes:
   user: kuber
   master_ip: 172.16.137.2
